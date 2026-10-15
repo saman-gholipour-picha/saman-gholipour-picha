@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Saman Gholipour Picha 👋
 
-<!--
-**saman-gholipour-picha/saman-gholipour-picha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Postdoctoral Associate at Virginia Tech** with a Ph.D. in Biomedical Engineering from the Illinois Institute of Technology.
 
-Here are some ideas to get you started:
+My work combines **neuroscience, neuroimaging, neuromodulation, and scientific computing**. I'm particularly interested in developing computational methods and research software for studying brain function and supporting noninvasive brain stimulation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔬 Research Interests
+
+- **Focused Ultrasound & Neuromodulation** — Low-intensity focused ultrasound (LIFU), transducer placement optimization, acoustic modeling, and targeting.
+- **Neuroimaging & Brain Networks** — Structural MRI, task-based and resting-state fMRI, functional connectivity, and BOLD response analysis.
+- **Scientific Computing** — Computational modeling, signal and image processing, optimization, analysis pipelines, and scientific visualization.
+- **Machine Learning** — Data-driven modeling and applications in biomedical engineering and neuroscience.
+
+### 💻 Research Software
+
+**FUScape — Focused Ultrasound Planning & Evaluation Toolkit**
+
+*Plan the focus. Connect the simulation. Explore the outcome.*
+
+FUScape is a modular toolkit for focused ultrasound transducer placement planning and evaluation. It supports candidate placement generation, interactive visualization, acoustic simulation result evaluation, and exploration of quantitative metrics.
+
+FUScape is designed to work with compatible external acoustic simulation pipelines, allowing researchers to use their preferred simulation workflows.
+
+*🚧 In preparation for public release.*
+
+### 🛠️ Technical Background
+
+**Programming:** Python, MATLAB, Bash, C/C++
+
+**Neuroimaging:** FSL, FreeSurfer, AFNI, SPM
+
+**Scientific Computing & Machine Learning:** NumPy, Pandas, Matplotlib, scikit-learn, TensorFlow, Keras
+
+### 🔗 Connect
+
+- [LinkedIn](https://www.linkedin.com/in/saman-gholipour-picha-9376644b)
+- [ORCID](https://orcid.org/0009-0004-3858-5486)
+
+---
+
+*Building computational tools for reproducible neuroscience and biomedical engineering research.*
