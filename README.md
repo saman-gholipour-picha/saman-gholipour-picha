@@ -33,8 +33,10 @@ FUScape is designed to work with compatible external acoustic simulation pipelin
 
 ### 🔗 Connect
 
-- [LinkedIn](https://www.linkedin.com/in/saman-gholipour-picha-9376644b)
+- [Virginia Tech Research Profile](https://fbri.vtc.vt.edu/people-directory/postdoctoral-associates/gholipour-picha-saman.html)
 - [ORCID](https://orcid.org/0009-0004-3858-5486)
+- [Scopus Author Profile](https://www.scopus.com/authid/detail.uri?authorId=58177386300)
+- [LinkedIn](https://www.linkedin.com/in/saman-gholipour-picha-9376644b)
 
 ---
 
